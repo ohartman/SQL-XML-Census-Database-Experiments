@@ -1,0 +1,90 @@
+<Censuses>
+    <Record Industry='Agriculture' DistrictNo = '44' Key = '141'>
+        <year>1900</year>
+        <urban>1</urban>
+        <HomeOwner>1</HomeOwner>
+        <Farm>2</Farm>
+        <State>04</State>
+        <County>22</County>
+        <Age>24</Age>
+    </Record>
+        <Record Industry='Agriculture' DistrictNo = '44' Key = '844'>
+        <year>1900</year>
+        <urban>1</urban>
+        <HomeOwner>2</HomeOwner>
+        <Farm>1</Farm>
+        <State>01</State>
+        <County>02</County>
+        <Age>30</Age>
+    </Record>
+    <Record Industry='Yarn, Thread and Fabric' DistrictNo = '44' Key = '1003'>
+        <year>1910</year>
+        <urban>1</urban>
+        <HomeOwner>2</HomeOwner>
+        <Farm>2</Farm>
+        <State>04</State>
+        <County>22</County>
+        <Age>65</Age>
+    </Record>
+    <Record Industry='Yarn, Thread and Fabric' DistrictNo = '44' Key = '1032'>
+        <year>1910</year>
+        <urban>1</urban>
+        <HomeOwner>2</HomeOwner>
+        <Farm>2</Farm>
+        <State>04</State>
+        <County>22</County>
+        <Age>32</Age>
+    </Record>
+    <Record Industry='Automobile' DistrictNo = '44' Key = '2011'>
+        <year>1920</year>
+        <urban>1</urban>
+        <HomeOwner>2</HomeOwner>
+        <Farm>2</Farm>
+        <State>04</State>
+        <County>22</County>
+        <Age>34</Age>
+    </Record>
+    <Record Industry='Personal Household' DistrictNo = '44' Key = '2013'>
+        <year>1920</year>
+        <urban>1</urban>
+        <HomeOwner>2</HomeOwner>
+        <Farm>2</Farm>
+        <State>04</State>
+        <County>22</County>
+        <Age>24</Age>
+    </Record>
+    <Record Industry='Petroleum' DistrictNo = '44' Key = '3012'>
+        <year>1930</year>
+        <urban>1</urban>
+        <HomeOwner>1</HomeOwner>
+        <Farm>2</Farm>
+        <State>04</State>
+        <County>22</County>
+        <Age>51</Age>
+    </Record>
+    <Record Industry='Personal Household' DistrictNo = '44' Key = '3103'>
+        <year>1930</year>
+        <urban>1</urban>
+        <HomeOwner>2</HomeOwner>
+        <Farm>1</Farm>
+        <State>05</State>
+        <County>123</County>
+        <Age>19</Age>
+    </Record>
+    <Years>
+        <Year>1900</Year>
+        <Key>1</Key>
+    </Years>
+    <Years>
+        <Year>1910</Year>
+        <Key>1001</Key>
+    </Years>
+    <Years>
+        <Year>1920</Year>
+        <Key>2001</Key>
+    </Years>
+    <Years>
+        <Year>1930</Year>
+        <Key>3001</Key>
+    </Years>
+</Censuses>
