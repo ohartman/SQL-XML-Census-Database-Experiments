@@ -1,2 +1,3 @@
 # Ongoing Census Database Project
-Real census records stored inside of an XML and a SQL database
+Real census records stored inside of an XML and a SQL database.
+Census records record data utilizing IPUMS data label codes, e.g., ICP Codes
